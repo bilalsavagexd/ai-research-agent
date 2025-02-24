@@ -2,6 +2,9 @@
 
 AI Research Agent is an intelligent assistant designed to facilitate research by leveraging AI-powered document retrieval, summarization, and Q&A functionalities. It integrates MongoDB for efficient data storage and retrieval, along with LangChain for AI-based processing.
 
+## Architectural Diagram
+<img src="structural-diagram.png" alt="structural-diagram">
+
 ## Features
 - **AI-powered document retrieval** using MongoDB and vector search.
 - **Summarization and Q&A capabilities** with LangChain.
